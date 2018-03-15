@@ -1,0 +1,121 @@
+#page-wrap {
+     width: 800px;
+     height:100%;
+     margin: 0 auto;
+     background-color: #f9931e;
+}
+body{height:100%;
+   width:100%;
+   background-image:url(/assets/images/backgroundjpg.jpg);/*your background image*/  
+   background-repeat:no-repeat;/*we want to have one single image not a repeated one*/  
+   background-size:cover;/*this sets the image to fullscreen covering the whole screen*/  
+   /*css hack for ie*/     
+   filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.image.jpg',sizingMethod='scale');
+   -ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='image.jpg',sizingMethod='scale')";
+}
+
+.logo{
+  
+}
+
+.navbar{
+  font-family: lobster;
+  list-style-type: none;
+}
+
+#navtext{
+    list-style-type: none;
+    padding: 10px;
+    margin: 0 auto;
+    
+}
+
+li {
+    display: inline;
+}
+li a {
+  padding:20px;
+  font-size: 30px;
+  color: #c31e1e;
+  
+}
+#footer .content {
+	position:relative;
+	text-align:center;
+	padding:20px;
+}
+
+#footer ul.social-links {
+	margin-top:10px;
+	list-style:none outside none;
+}
+
+#footer ul.social-links li {
+	display:inline-block;
+}
+
+#footer ul.social-links li a {
+	display:block;
+	height:33px;
+	margin-right:5px;
+	text-indent:-9999px;
+	width:33px;
+	background-repeat:no-repeat;
+}
+#footer > .bg {
+	display:none;
+	background-image:none;
+}
+
+#footer p, #footer div, #footer td {
+	line-height:20px;
+	letter-spacing:normal;
+}
+
+#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
+	line-height:1em;
+}
+
+#footer p a:link, #footer p a:visited {
+	font-weight:bold;
+	color:#ffffff;
+	text-decoration:none;
+}
+
+#footer p a:hover {
+	color:#404040;
+}
+
+#container{
+	width:800px;
+}
+.dj{
+	float:left; 
+	width:250px; 
+	margin-right:30px;
+	padding-left: 20px;
+
+}
+.profiles{
+	float:right; 
+	width:500px;
+	padding-bottom: 25px;
+	
+}
+.audio{
+	padding-left: 90px;
+	
+	
+}
+.image{
+	padding-left: 120px;
+	
+}
+.photo{
+	padding-left: 90px;
+}
+.form-horizontal{
+	padding-left: 300px;
+	padding-top: 20px;
+	
+}
