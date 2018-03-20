@@ -36,7 +36,18 @@ body{height:100%;
 	color: #c31e1e;
 
 }
-
+.button{
+	padding-left: 100px;
+	padding-right: 120px;
+}
+.btn.btn-custom {
+	padding-left: 100px;
+	padding-right: 120px;
+	font-family: lobster;
+	color: black !important;
+	font-size: 23px !important;
+	
+}
 li {
     display: inline;
 }
