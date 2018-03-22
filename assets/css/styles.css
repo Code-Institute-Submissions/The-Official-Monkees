@@ -129,20 +129,43 @@ li a {
 	margin-right:30px;
 	padding-left: 20px;
 
+   
+
+
+}
+.bios{
+	padding-top: 20px;
 }
 .profiles{
 	float:right; 
 	width:500px;
 	padding-bottom: 25px;
-	
+	font-family: lobster;
+	color: #c31e1e;
+	font-size:15px;
+}
+.music{
+	padding-top: 20px;
 }
 .audio{
 	padding-left: 90px;
+	padding-top: 20px;
 	
 }
 .image{
 	padding-left: 120px;
 	
+}
+.title{
+	padding-left: 120px;
+	font-family: lobster;
+	color:#c31e1e;
+	font-size: 20px;
+}
+.title2{
+	font-family: lobster;
+	color:#c31e1e;
+	font-size: 20px;
 }
 .photo{
 	padding-left: 90px;
