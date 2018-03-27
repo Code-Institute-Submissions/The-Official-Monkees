@@ -154,7 +154,16 @@ li a {
 }
 .image{
 	padding-left: 120px;
+	font-family: lobster;
+	color: #c31e1e;
+	font-size: 20px;
 	
+}
+.image2{
+	font-family: lobster;
+	color: #c31e1e;
+	font-size: 20px;
+		
 }
 .title{
 	padding-left: 120px;
@@ -169,6 +178,7 @@ li a {
 }
 .photo{
 	padding-left: 90px;
+	padding-top: 20px;
 
 }
 .form-horizontal{
