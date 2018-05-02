@@ -38,7 +38,7 @@ body{height:100%;
 }
 .monkeesvideo{
 	padding-top: 30px;
-	border-radius: 25px 25px 25px 25px;
+
 }
 .description{
 	font-family: lobster;
@@ -51,6 +51,13 @@ body{height:100%;
 .button{
 	padding-left: 110px;
 	padding-right: 110px;
+}
+.btn-lg.round{
+	border-radius: 24px;
+	
+}
+.btn-danger.round{
+	border-radius: 24px;
 }
 .btn.btn-custom {
 	padding-left: 100px;
