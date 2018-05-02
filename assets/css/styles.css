@@ -3,6 +3,9 @@
      height:100%;
      margin: 0 auto;
      background-color: #f9931e;
+     border-radius: 100px 100px 100px 100px;
+     margin-bottom : 10px;
+     margin-top: 10px;
 }
 body{height:100%;
    width:100%;
@@ -22,6 +25,9 @@ body{height:100%;
 .navbar{
   font-family: lobster;
   list-style-type: none;
+  margin-left: 23px;
+  width: 750px;
+  border-radius: 25px 25px 25px 25px;
 }
 
 #navtext{
@@ -32,6 +38,7 @@ body{height:100%;
 }
 .monkeesvideo{
 	padding-top: 30px;
+	border-radius: 25px 25px 25px 25px;
 }
 .description{
 	font-family: lobster;
@@ -181,9 +188,22 @@ li a {
 	padding-top: 20px;
 
 }
-.form-horizontal{
-	padding-left: 300px;
-	padding-top: 20px;
+
+}
+.contact{
+
 	
 }
+.form-horizontal{
+	font-family: lobster;
+	font-size: 25px;
+	color: #c31e1e;
+   	padding-top: 30px;
+}
+#legend{
+	font-size: 50px;
+}
+}
+.form-group{
 
+}
