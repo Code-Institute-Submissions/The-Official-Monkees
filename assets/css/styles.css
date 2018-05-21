@@ -14,7 +14,7 @@ body{height:100%;
    background-size:cover;
    
    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.image.jpg',sizingMethod='scale');
-   -ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='image.jpg',sizingMethod='scale')";
+   -ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='image.jpg',sizingMethod='scale')"  ['css-loader?url=false', 'sass-loader'] ...;
 }
 
 .logo{
