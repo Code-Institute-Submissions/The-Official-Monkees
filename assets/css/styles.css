@@ -220,11 +220,7 @@ li a {
 	.logomobile{
 		display:none;
 	}
-	.mobilebody{
-		background-image:url(../images/backgroundjpgs.jpg);
-   		background-repeat:no-repeat;
-   		background-size:cover;
-	}
+
 	
 }
 
