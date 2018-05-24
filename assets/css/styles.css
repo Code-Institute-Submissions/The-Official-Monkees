@@ -221,7 +221,7 @@ li a {
 		display:none;
 	}
 	.mobilebody{
-		background-image:url(/assets/images/backgroundjpg.jpg);
+		background-image:url(../images/backgroundjpgs.jpg);
    		background-repeat:no-repeat;
    		background-size:cover;
 	}
