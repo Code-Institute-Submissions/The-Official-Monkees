@@ -7,11 +7,19 @@
      margin-bottom : 10px;
      margin-top: 10px;
 }
+<<<<<<< HEAD
 .body{
 
    	background-image:url(/assets/images/backgroundjpg.jpg);
    	background-repeat:no-repeat;
    	background-size:cover;
+=======
+body{height:100%;
+   width:100%;
+   background-image:url(../images/backgroundjpg.jpg);
+   background-repeat:no-repeat;
+   background-size:cover;
+>>>>>>> e535138085b2d3356f5f1f4afa977ace10e15dfc
    
    	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.image.jpg',sizingMethod='scale');
    	-ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='image.jpg',sizingMethod='scale')";
@@ -256,3 +264,7 @@ li a {
 
 }
 
+<<<<<<< HEAD
+=======
+}
+>>>>>>> e535138085b2d3356f5f1f4afa977ace10e15dfc
