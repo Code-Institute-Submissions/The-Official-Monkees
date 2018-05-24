@@ -7,19 +7,21 @@
      margin-bottom : 10px;
      margin-top: 10px;
 }
-body{height:100%;
-   width:100%;
-   background-image:url(/assets/images/backgroundjpg.jpg);
-   background-repeat:no-repeat;
-   background-size:cover;
+.body{
+
+   	background-image:url(/assets/images/backgroundjpg.jpg);
+   	background-repeat:no-repeat;
+   	background-size:cover;
    
-   filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.image.jpg',sizingMethod='scale');
-   -ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='image.jpg',sizingMethod='scale')"  ['css-loader?url=false', 'sass-loader'] ...;
+   	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.image.jpg',sizingMethod='scale');
+   	-ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='image.jpg',sizingMethod='scale')";
 }
 
 .logo{
  	padding-top: 20px;
  	padding-bottom: 30px;
+	text-align:center;
+
 }
 
 .navbar{
@@ -194,13 +196,10 @@ li a {
 	padding-left: 90px;
 	padding-top: 20px;
 
-}
 
 }
-.contact{
 
-	
-}
+
 .form-horizontal{
 	font-family: lobster;
 	font-size: 25px;
@@ -209,8 +208,51 @@ li a {
 }
 #legend{
 	font-size: 50px;
+
+	
 }
+
+
+
+/* media queries*/
+
+@media (min-width:767px){
+	.logomobile{
+		display:none;
+	}
+	
 }
-.form-group{
+
+@media (max-width: 767px) {
+	.body{
+		background-repeat: repeat-y;
+	}
+	
+
+	#page-wrap{
+		width:300px;
+		
+	}
+	.logo{
+		display:none;
+	}
+	.logomobile{
+		text-align:center;
+		padding-top:20px;
+		padding-bottom:20px;
+	}
+	.navbarmobile{
+		
+		width:250px;
+		margin-left:20px;
+		
+		
+		
+	}
+	.monkeesvideo{
+		display:none;
+	}
+	
 
 }
+
