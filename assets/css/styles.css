@@ -258,6 +258,9 @@ li a {
 		display:none;
 		audio:none;
 	}
+	.profiles{
+		float:none;
+	}
 	
 
 }
