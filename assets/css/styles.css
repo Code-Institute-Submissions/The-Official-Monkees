@@ -261,12 +261,12 @@ li a {
 	}
 	.profiles{
 		clear:right;
-		display:block;
+		text-align:center;
 	}
 	
 	.dj{
 		clear:left;
-		display:block;
 	}
+	
 }
 
