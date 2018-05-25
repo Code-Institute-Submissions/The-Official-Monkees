@@ -260,8 +260,12 @@ li a {
 	}
 	.profiles{
 		float:none;
+		display:block;
 	}
 	
-
+	.dj{
+		float:none;
+		display:block;
+	}
 }
 
