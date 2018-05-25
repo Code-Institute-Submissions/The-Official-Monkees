@@ -265,7 +265,7 @@ li a {
 	}
 	.profiles{
 		clear:right;
-		padding-left:10px;
+		padding-left:20px;
 		width:300px;
 		margin:auto;
 	}
@@ -275,6 +275,22 @@ li a {
 		width:300px;
 		margin:auto;
 	}
-	
+	.image{
+		width:300px;
+		margin:auto:
+		
+	}
+	.audio{
+		width:300px;
+		margin:auto:
+	}
+	.title{
+		width:300px;
+		margin:auto:
+	}
+	.title2{
+		width:300px;
+		margin:auto:
+	}
 }
 
