@@ -300,15 +300,19 @@ li a {
 	.mobileimage{
 		width:300px;
 		display: block;
-        	margin:10px 0px;
-		margin:auto;
+        	
+		
 	}
 	.mobiletitle{
 		width:300px;
 		display: block;
-        	margin:10px 0px;
-		margin:auto;
+        	
 		
+		
+	}
+	.images{
+		display: block;
+        	margin:10px 0px;
 	}
 }
 
