@@ -266,11 +266,13 @@ li a {
 	.profiles{
 		clear:right;
 		padding-left:10px;
+		width:300px;
 		margin:auto;
 	}
 	
 	.dj{
 		clear:left;
+		width:300px;
 		margin:auto;
 	}
 	
