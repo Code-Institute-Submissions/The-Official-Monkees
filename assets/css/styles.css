@@ -260,12 +260,12 @@ li a {
 		audio:none;
 	}
 	.profiles{
-		float:none;
+		clear:right;
 		display:block;
 	}
 	
 	.dj{
-		float:none;
+		clear:left;
 		display:block;
 	}
 }
