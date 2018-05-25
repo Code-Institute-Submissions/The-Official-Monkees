@@ -231,7 +231,7 @@ li a {
 	.body{
 		background-image:none;
 		background-color:#c31e1e;
-		width:300px;
+		
 	}
 	
 
@@ -259,13 +259,19 @@ li a {
 		display:none;
 		audio:none;
 	}
+	.profilesmobile{
+		width:300px;
+		margin:auto;
+	}
 	.profiles{
 		clear:right;
-		text-align:center;
+		padding-left:10px;
+		margin:auto;
 	}
 	
 	.dj{
 		clear:left;
+		margin:auto;
 	}
 	
 }
