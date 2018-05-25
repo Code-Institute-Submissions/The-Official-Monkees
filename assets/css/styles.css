@@ -229,7 +229,8 @@ li a {
 
 @media (max-width: 767px) {
 	.body{
-		display:none;
+		background-image:none;
+		background-color:#c31e1e;
 	}
 	
 
