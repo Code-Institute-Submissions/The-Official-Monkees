@@ -275,9 +275,20 @@ li a {
 		width:300px;
 		margin:auto;
 	}
+	.audio{
+		padding-left:20px;
+	}
+	.image{
+		padding-left:50px;
+	}
+	.title{
+		padding-left:50px;
+	}
+	.title2{
+		padding-left:50px;
+	}
 	.table-responsive-snm{
 		width:300px;
-		padding-left:20px;
 	}
 }
 
