@@ -275,6 +275,9 @@ li a {
 		width:300px;
 		margin:auto;
 	}
-	
+	.table-responsive-snm{
+		width:300px;
+		padding-left:20px;
+	}
 }
 
