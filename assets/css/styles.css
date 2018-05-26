@@ -276,16 +276,16 @@ li a {
 		margin:auto;
 	}
 	.audio{
-		padding-left:20px;
+		padding-left:0px;
 	}
 	.image{
-		padding-left:50px;
+		padding-left:0px;
 	}
 	.title{
-		padding-left:50px;
+		padding-left:0px;
 	}
 	.title2{
-		padding-left:50px;
+		padding-left:0px;
 	}
 	.table-responsive-snm{
 		width:300px;
